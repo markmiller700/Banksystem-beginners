@@ -1,2 +1,2 @@
 # Banksystem-beginners
-Bank system are just very very very simple example of real banksystems without GUI , its make with c++ for clean code and solve bugs i use claude ai , that was just an exmple for understanding how 
+Bank system are just very very very simple example of real banksystems without GUI , its make with c++ for clean code and solve bugs i use claude ai , that was just an exmple for understanding function veriable ...
